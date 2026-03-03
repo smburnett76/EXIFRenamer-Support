@@ -4,7 +4,7 @@ Support and information for the **EXIF Renamer** app.
 
 ## What is EXIF Renamer?
 
-EXIF Renamer renames photo files using their EXIF metadata—date, time, camera model, location, and more. You choose files or a folder, build a naming pattern, preview the result, then rename in place or copy to a destination. Optional reverse geocoding adds location names to filenames.
+EXIF Renamer renames photo files using their EXIF metadata—date, time, camera model, location, and more. You choose files or a folder, build a naming pattern, preview the result, then rename in place or copy to a destination. Optional reverse geocoding adds location names to filenames. You can export a CSV of EXIF data for your records.
 
 ## Get help
 

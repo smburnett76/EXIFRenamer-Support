@@ -10,7 +10,7 @@ EXIF Extract renames photo files using their EXIF metadata—date, time, camera 
 
 For questions, feedback, or support:
 
-- **Open an issue or discussion** in this repository: [EXIFRenamer-Support](https://github.com/smburnett76/EXIFRenamer-Support)
+- **Open an issue or discussion** in this repository: [EXIFExtract-Support](https://github.com/smburnett76/EXIFExtract-Support)
 - Use the contact method listed in the App Store listing for EXIF Extract
 
 ## Privacy

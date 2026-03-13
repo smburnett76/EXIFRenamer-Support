@@ -1,17 +1,17 @@
-# EXIF Renamer — Support
+# EXIF Extract — Support
 
-Support and information for the **EXIF Renamer** app.
+Support and information for the **EXIF Extract** app.
 
-## What is EXIF Renamer?
+## What is EXIF Extract?
 
-EXIF Renamer renames photo files using their EXIF metadata—date, time, camera model, location, and more. You choose files or a folder, build a naming pattern, preview the result, then rename in place or copy to a destination. Optional reverse geocoding adds location names to filenames. You can export a CSV of EXIF data for your records.
+EXIF Extract renames photo files using their EXIF metadata—date, time, camera model, location, and more. You choose files or a folder, build a naming pattern, preview the result, then rename in place or copy to a destination. Optional reverse geocoding adds location names to filenames. You can export a CSV of EXIF data for your records.
 
 ## Get help
 
 For questions, feedback, or support:
 
 - **Open an issue or discussion** in this repository: [EXIFRenamer-Support](https://github.com/smburnett76/EXIFRenamer-Support)
-- Use the contact method listed in the App Store listing for EXIF Renamer
+- Use the contact method listed in the App Store listing for EXIF Extract
 
 ## Privacy
 
@@ -19,4 +19,4 @@ For questions, feedback, or support:
 
 ## License
 
-Copyright © 2025 EXIF Renamer Project. All rights reserved.
+Copyright © 2025 EXIF Extract Project. All rights reserved.

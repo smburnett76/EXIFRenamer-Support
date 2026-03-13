@@ -1,10 +1,10 @@
-# Privacy Policy for EXIF Renamer
+# Privacy Policy for EXIF Extract
 
 **Last updated:** March 2026
 
 ## Overview
 
-EXIF Renamer is a photo renaming app that uses metadata (EXIF) from your files to generate new filenames. This policy describes what data the app uses and where it goes.
+EXIF Extract is a photo renaming app that uses metadata (EXIF) from your files to generate new filenames. This policy describes what data the app uses and where it goes.
 
 ## Data the App Uses
 
@@ -22,7 +22,7 @@ EXIF Renamer is a photo renaming app that uses metadata (EXIF) from your files t
 
 ## Contact
 
-For questions about this privacy policy or the app, open an issue or discussion at the [EXIF Renamer Support repository](https://github.com/smburnett76/EXIFRenamer-Support), or contact the developer through the Support URL provided in the App Store listing.
+For questions about this privacy policy or the app, open an issue or discussion at the [EXIF Extract Support repository](https://github.com/smburnett76/EXIFRenamer-Support), or contact the developer through the Support URL provided in the App Store listing.
 
 ## Changes to This Policy
 

@@ -1,6 +1,6 @@
 # Privacy Policy for EXIF Extract
 
-**Last updated:** March 2026
+**Last updated:** April 2026
 
 ## Overview
 
@@ -22,8 +22,12 @@ EXIF Extract is a photo renaming app that uses metadata (EXIF) from your files t
 
 ## Contact
 
-For questions about this privacy policy or the app, open an issue or discussion at the [EXIF Extract Support repository](https://github.com/smburnett76/EXIFExtract-Support), or contact the developer through the Support URL provided in the App Store listing.
+EXIF Extract is developed by **Shannon Burnett**. For questions about this privacy policy or the app, use the Support URL provided in the App Store listing, or open an issue or discussion at the [EXIF Extract GitHub repository](https://github.com/smburnett76/EXIFExtract).
 
 ## Changes to This Policy
 
 We may update this policy from time to time. The current version is always available at this URL. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Copyright
+
+Copyright © 2026 Shannon Burnett. All rights reserved.

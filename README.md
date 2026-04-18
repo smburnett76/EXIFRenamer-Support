@@ -19,4 +19,4 @@ For questions, feedback, or support:
 
 ## License
 
-Copyright © 2025 EXIF Extract Project. All rights reserved.
+Copyright © 2026 Shannon Burnett. All rights reserved.

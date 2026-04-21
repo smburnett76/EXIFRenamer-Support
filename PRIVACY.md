@@ -14,6 +14,8 @@ EXIF Extract is a photo renaming app that uses metadata (EXIF) from your files t
 
 - **Location in filenames:** If you use the optional location feature, GPS coordinates stored in your photo metadata may be sent to **Apple's** geocoding service to obtain place names (e.g. city, country). This is done via Apple's built-in services on your device. We do not receive, store, or have access to this data.
 
+- **In-App Purchase entitlement:** If you choose to upgrade to Pro, Apple processes the purchase through the App Store. We do not receive or store your payment card details. The app checks your Apple-provided purchase entitlement to unlock Pro features.
+
 ## What We Do Not Do
 
 - We do not collect, store, or sell your personal data.
@@ -22,11 +24,11 @@ EXIF Extract is a photo renaming app that uses metadata (EXIF) from your files t
 
 ## Contact
 
-EXIF Extract is developed by **Shannon Burnett**. For questions about this privacy policy or the app, use the Support URL provided in the App Store listing, or open an issue or discussion at the [EXIF Extract GitHub repository](https://github.com/smburnett76/EXIFExtract).
+EXIF Extract is developed by **Shannon Burnett**. For questions about this privacy policy or the app, use the Support URL provided in the App Store listing, or open an issue or discussion at the [EXIF Extract support repository](https://github.com/smburnett76/EXIFExtract-Support).
 
 ## Changes to This Policy
 
-We may update this policy from time to time. The current version is always available at this URL. Continued use of the app after changes constitutes acceptance of the updated policy.
+We may update this policy from time to time. The current version is always available at [https://github.com/smburnett76/EXIFExtract-Support/blob/main/PRIVACY.md](https://github.com/smburnett76/EXIFExtract-Support/blob/main/PRIVACY.md). Continued use of the app after changes constitutes acceptance of the updated policy.
 
 ## Copyright
 
